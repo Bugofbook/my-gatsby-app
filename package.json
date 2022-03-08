@@ -1,0 +1,29 @@
+{
+  "name": "my-gatsby-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "my-gatsby-app",
+  "author": "BugofBook",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "babel-plugin-styled-components": "^2.0.6",
+    "gatsby": "^4.9.2",
+    "gatsby-plugin-mdx": "^3.9.0",
+    "gatsby-plugin-styled-components": "^5.9.0",
+    "gatsby-source-filesystem": "^4.9.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.3.3"
+  }
+}
