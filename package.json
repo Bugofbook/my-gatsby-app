@@ -25,6 +25,7 @@
     "@mui/styled-engine-sc": "^5.4.2",
     "babel-plugin-styled-components": "^2.0.6",
     "gatsby": "^4.9.2",
+    "gatsby-plugin-gatsby-cloud": "^4.9.1",
     "gatsby-plugin-mdx": "^3.9.0",
     "gatsby-plugin-styled-components": "^5.9.0",
     "gatsby-source-filesystem": "^4.9.0",
