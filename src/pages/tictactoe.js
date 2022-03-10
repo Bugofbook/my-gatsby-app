@@ -1,7 +1,7 @@
 import React from 'react';    
 import { compose } from 'redux';
 import Layout from "../layout";
-import GameInFo from "../component/GameInFo";
+import GameInFo from "../component/GameinFo";
 import GameMain from "../component/GameMain";
 import {TicTacToeInitialData} from "../functions/initialstatedata";
 import { SquaresDeepCopy } from "../functions/gamebasics";
