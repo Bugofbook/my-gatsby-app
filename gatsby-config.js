@@ -3,7 +3,7 @@ module.exports = {
       title: ``,
     siteUrl: `https://www.yourdomain.tld`
   },
-  plugins: ["gatsby-plugin-styled-components", "gatsby-plugin-mdx", {
+  plugins: ["gatsby-plugin-styled-components", "gatsby-plugin-gatsby-cloud", "gatsby-plugin-mdx", {
     resolve: 'gatsby-source-filesystem',
     options: {
       "name": "pages",
