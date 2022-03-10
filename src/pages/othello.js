@@ -1,7 +1,7 @@
 import React from 'react';    
 import { compose } from 'redux';
 import Layout from "../layout";
-import GameInFo from "../component/GameinFo";
+import GameInFo from "../component/Gameinfo";
 import GameMain from "../component/GameMain";
 import {OthelloInitialData} from "../functions/initialstatedata";
 import { SquaresDeepCopy, addChessToLists, setChessToSquares} from "../functions/gamebasics";

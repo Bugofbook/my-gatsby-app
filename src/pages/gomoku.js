@@ -1,7 +1,7 @@
 import React from 'react';    
 import { compose } from 'redux';
 import Layout from "../layout";
-import GameInFo from "../component/GameinFo";
+import GameInFo from "../component/Gameinfo";
 import GameMain from "../component/GameMain";
 import {GomokuInitialData} from "../functions/initialstatedata";
 import { SquaresDeepCopy } from "../functions/gamebasics";
