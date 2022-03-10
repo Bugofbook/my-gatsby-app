@@ -1,7 +1,6 @@
 module.exports = {
   siteMetadata: {
-      title: ``,
-    siteUrl: `https://www.yourdomain.tld`
+    title: `My Gatsby Personal App`,
   },
   plugins: ["gatsby-plugin-styled-components", "gatsby-plugin-gatsby-cloud", "gatsby-plugin-mdx", {
     resolve: 'gatsby-source-filesystem',
